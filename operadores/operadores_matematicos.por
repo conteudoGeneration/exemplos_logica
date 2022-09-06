@@ -1,7 +1,6 @@
 programa
 {
-	inclua biblioteca Matematica 
-	
+
 	funcao inicio()
 	{
 		inteiro x = 4
@@ -26,7 +25,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 130; 
+ * @POSICAO-CURSOR = 11; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

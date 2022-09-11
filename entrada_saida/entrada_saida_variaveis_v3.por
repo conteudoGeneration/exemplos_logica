@@ -24,11 +24,11 @@ programa
 		escreva("\nDigite verdadeiro ou falso: ")
 		leia(resposta)
 		
-		escreva("\nO valor armazenado na Variável numero é: " + numero)
-		escreva("\nO valor armazenado na Variável numeroReal é: " + numeroReal)
-		escreva("\nO valor armazenado na Variável frase é: " + frase)
-		escreva("\nO valor armazenado na Variável letra é: " + letra)
-		escreva("\nO valor armazenado na Variável resposta é: " + resposta)
+		escreva("\nO valor armazenado na Variável numero é: ", numero)
+		escreva("\nO valor armazenado na Variável numeroReal é: ", numeroReal)
+		escreva("\nO valor armazenado na Variável frase é: ", frase)
+		escreva("\nO valor armazenado na Variável letra é: ", letra)
+		escreva("\nO valor armazenado na Variável resposta é: ", resposta)
 
 	}
 }
@@ -38,7 +38,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 739; 
+ * @POSICAO-CURSOR = 721; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

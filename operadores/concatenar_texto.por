@@ -1,35 +1,25 @@
 programa
 {
-	
+
 	funcao inicio()
 	{
-		inteiro x = 4
-		inteiro y = 2
-		inteiro z = 1
-
-		z = y
-		escreva("Atribuição simples (z = 2): ", z)
-
-		x += y
-		escreva("\nAtribuição com soma (4, 2): ", x)
-
-		x -= z
-		escreva("\nAtribuição com subtração (6 - 2): ", x)
-
-		x *= y
-		escreva("\nAtribuição com multiplicação (4 * 2): ", x)
-
-		x /= y
-		escreva("\nAtribuição com divisão (8 / 2): ", x)
+		cadeia texto01 = "Generation"
+		cadeia texto02 = "Brasil"
+		cadeia texto03 = " "
+				
+		escreva("Concatenar texto01 e texto02: ", texto01 + texto02)
+		escreva("\nConcatenar texto02 e texto01: ", texto02 + texto01)
+		escreva("\nConcatenar texto01, texto03 e texto02: ", texto01 + texto03 + texto02)
 
 	}
 }
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 140; 
+ * @POSICAO-CURSOR = 335; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
